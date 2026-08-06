@@ -37,42 +37,10 @@
 - **APIs:** Weather API, News API, Payment Gateway (Razorpay/Stripe)
 - **Deployment:** Vercel / AWS / Heroku
 
-## 📸 Screenshots
-
-*(Add screenshots of your dashboard, marketplace, and language switcher here)*
-
-## 🤝 Installation & Setup
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/your-username/smartagri.git
-   ```
-
-2. **Install dependencies**
-   ```bash
-   cd smartagri
-   npm install
-   ```
-
-3. **Environment Variables**
-   Create a `.env` file in the root directory:
-   ```env
-   DATABASE_URL=your_database_url
-   API_KEY=your_api_key
-   ```
-
-4. **Run the application**
-   ```bash
-   npm start
-   ```
 
 ## 👨‍💻 Authors
 
-- **Your Name** - *Initial work* - [YourGitHubProfile](https://github.com/your-username)
-
-## 📄 License
-
-This project is licensed under the MIT License.
+- **Your Name** - *Initial work* - https://github.com/TowfeeqRameez
 
 ## 🙏 Acknowledgments
 
