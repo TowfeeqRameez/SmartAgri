@@ -40,7 +40,7 @@
 
 ## 👨‍💻 Authors
 
-- **Your Name** - *Initial work* - https://github.com/TowfeeqRameez
+- **Sk.Towfeeq Rameez** - https://github.com/TowfeeqRameez
 
 ## 🙏 Acknowledgments
 
